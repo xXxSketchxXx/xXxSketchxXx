@@ -7,9 +7,6 @@
 - 🌱 Actualmente estoy aprendiendo ciberseguridad, me gustaría obtener el certificado eJPTv2  
   
 
-- 👨‍💻 All of my projects are available at [xXxSketchxXx](https://github.com/xXxSketchxXx)  
-  
-
 <br/>  
 
 
