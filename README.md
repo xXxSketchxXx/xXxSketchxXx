@@ -85,7 +85,3 @@
 ## Blog posts  
 🔒 Actualmente, estoy cursando un grado superior en Administración de Sistemas Informáticos en Red. Me quiero especializar en hacking ético y ciberseguridad, por lo que estoy documentando y subiendo los writeups de los laboratorios que voy resolviendo a mi [GitBook](https://sketch-1.gitbook.io/ciberseguridad/). 🚀  
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
